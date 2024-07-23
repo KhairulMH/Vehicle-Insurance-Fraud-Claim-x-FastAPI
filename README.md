@@ -1,1 +1,1 @@
-# Vehicle Insurance Fraud Claim (Beta)
+# Vehicle Insurance Fraud Claim Prediction (Beta)
